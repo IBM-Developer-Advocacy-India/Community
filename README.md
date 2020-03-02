@@ -10,4 +10,13 @@ You can be a speaker at a meetup or conduct a workshop for community events. Wat
 
 ![developer](images/dev.jpeg)
 
-## Please [Sign up Here](https://ibm.box.com/s/uanf0jk5pqsj7hefqu7mdrq91s7ahwl3)
+## What can you expect to do as a developer advocate
+
+1. Speaker Opportunities
+2. Mentor at Hackathons like the Call For Code Hackathom
+3. University Speakers
+4. Paper Submissions
+5. Panel Discussions
+6. SME Recognition
+
+### Please [Sign up Here](https://ibm.box.com/s/uanf0jk5pqsj7hefqu7mdrq91s7ahwl3) or [Add yourself here](https://github.com/IBM-Developer-Advocacy-India/Community/issues/2)
