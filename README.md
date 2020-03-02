@@ -19,4 +19,7 @@ You can be a speaker at a meetup or conduct a workshop for community events. Wat
 5. Panel Discussions
 6. SME Recognition
 
-### Please [Sign up Here](https://ibm.box.com/s/uanf0jk5pqsj7hefqu7mdrq91s7ahwl3) or [Add yourself here](https://github.com/IBM-Developer-Advocacy-India/Community/issues/2)
+### Please [Sign up Here](https://github.com/IBM-Developer-Advocacy-India/Community/issues/2)
+To sign up open the link above, it will show the issues page and add a comment as "+1".
+
+###
